@@ -48,3 +48,6 @@ During this session, we will show you the various resources that VMware provides
 ### Additional resources
 - https://modernapps.ninja/
 - https://github.com/vmware-tanzu-labs
+- https://tanzu.vmware.com/content/ebooks/production-kubernetes
+- https://tanzu.vmware.com/content/ebooks/knative-in-action
+- https://tanzu.vmware.com/education
