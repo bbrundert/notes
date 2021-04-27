@@ -51,3 +51,5 @@ During this session, we will show you the various resources that VMware provides
 - https://tanzu.vmware.com/content/ebooks/production-kubernetes
 - https://tanzu.vmware.com/content/ebooks/knative-in-action
 - https://tanzu.vmware.com/education
+- VMware Fusion and Workstation: https://www.vmware.com/products/fusion.html & https://www.vmware.com/products/workstation-player.html
+- Project Nautilus in Fusion/Workstation: https://rguske.github.io/post/a-closer-look-at-vmwares-project-nautilus/
