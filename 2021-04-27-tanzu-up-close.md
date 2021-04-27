@@ -2,6 +2,8 @@
 
 During this session, we will show you the various resources that VMware provides to you to start getting a feeling of some of the VMware Tanzu products - independent if you are an existing customer, prospect or just an individual who want’s to know and feel VMware Tanzu!
 
+![QR code to this site](https://github.com/bbrundert/notes/blob/master/tanzu_upclose.png)
+
 ## Resources
 
 ### Tanzu Developer Center
