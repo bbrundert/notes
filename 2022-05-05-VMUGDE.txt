@@ -1,0 +1,12 @@
+- Enterprise Sovereignty: https://news.vmware.com/leadership/enterprise-sovereignty-multi-cloudraghu-raghuram-ceo
+- State of Kubernetes Report 2022: https://hello-tanzu.vmware.com/state-of-kubernetes-2022/
+- Tanzu Community Edition: https://tanzucommunityedition.io 
+- Project Capitola: https://blogs.vmware.com/vsphere/2021/10/introducing-project-capitola.html 
+- Project Cascade: https://blogs.vmware.com/vsphere/2021/10/how-innovations-in-vsphere-are-redefining-infrastructure-to-run-future-apps.html
+- IDEM Project: https://www.idemproject.io/
+- Project Santa Cruz: https://octo.vmware.com/announcing-project-santa-cruz-and-more/ 
+- Project Radium: https://octo.vmware.com/introducing-project-radium/ 
+- VMware 2030 Agenda and ESG: https://www.vmware.com/company/esg
+- OCTO Blog: https://octo.vmware.com 
+- VMware Podcast: https://bitly.com/dervmwarepodcast
+- VMware Explore: https://www.vmware.com/explore.html
